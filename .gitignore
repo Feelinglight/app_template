@@ -1,0 +1,12 @@
+.idea/
+/venv
+/build
+*.pyc
+*.spec
+*.log*
+*.ini
+
+dist/*
+!dist/app_template.exe
+!dist/settings.ini
+icons_rc.py
